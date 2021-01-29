@@ -1,3 +1,20 @@
+# install components
+- install typescript
+```
+npx create-react-app . --template typescript --use-npm
+```
+
+- install chartjs
+```
+npm install --save react-chartjs-2 chart.js
+```
+
+- install material UI
+```
+npm install @material-ui/core
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
